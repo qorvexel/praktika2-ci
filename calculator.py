@@ -1,4 +1,4 @@
-"""Simple calculator."""
+"""Simple calculator. Supports addition and multiplication."""
 
 __version__ = "1.0.0"
 
